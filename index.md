@@ -1,4 +1,4 @@
 ---
-title: Welcome to my projects
+Rebecca Soria: Welcome to my projects
 ---
 
